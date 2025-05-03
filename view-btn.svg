@@ -1,8 +1,9 @@
-<svg width="60" height="30" viewBox="0 0 60 30" xmlns="http://www.w3.org/2000/svg">
-  <!-- Outer padding via viewBox space -->
-  <rect x="0.75" y="5.75" width="58.5" height="18.5" rx="9.25" ry="9.25"
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="26" viewBox="0 0 60 26" style="vertical-align: middle;">
+  <!-- Shifted button rectangle down to create top padding -->
+  <rect x="0.75" y="6" width="58.5" height="18.5" rx="9.25" ry="9.25"
         fill="none" stroke="#0366D6" stroke-width="1.5"/>
-  <text x="30" y="15" font-family="Arial, sans-serif" font-size="10" fill="#0366D6" text-anchor="middle" dominant-baseline="middle">
+  <!-- Properly centered text within the button -->
+  <text x="30" y="15.5" font-family="Arial, sans-serif" font-size="10" fill="#0366D6" text-anchor="middle" dominant-baseline="middle">
     View
   </text>
 </svg>
