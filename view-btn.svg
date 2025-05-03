@@ -1,9 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml version="1.0" encoding="UTF-8"?>
 <svg width="60" height="20" xmlns="http://www.w3.org/2000/svg">
   <!-- Pill background, 50% opacity -->
   <rect width="60" height="20" rx="10" ry="10" fill="#0366D6" fill-opacity="0.5"/>
   <!-- Centered white text -->
   <text x="30" y="14" font-family="Arial, sans-serif" font-size="10" fill="#FFFFFF" text-anchor="middle">
+    View
+  </text>
+</svg>
+ -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="20" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pill outline only -->
+  <rect width="60" height="20" rx="10" ry="10" fill="none" stroke="#0366D6" stroke-width="1.5"/>
+  <!-- Centered white text -->
+  <text x="30" y="14" font-family="Arial, sans-serif" font-size="10" fill="#0366D6" text-anchor="middle">
     View
   </text>
 </svg>
