@@ -1,9 +1,8 @@
-<svg width="60" height="24" viewBox="0 0 60 24" xmlns="http://www.w3.org/2000/svg">
-  <!-- Pill outline -->
-  <rect x="0.75" y="0.75" width="58.5" height="22.5" rx="11.25" ry="11.25"
+<svg width="60" height="30" viewBox="0 0 60 30" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer padding via viewBox space -->
+  <rect x="0.75" y="5.75" width="58.5" height="18.5" rx="9.25" ry="9.25"
         fill="none" stroke="#0366D6" stroke-width="1.5"/>
-  <!-- Centered text -->
-  <text x="30" y="16" font-family="Arial, sans-serif" font-size="10" fill="#0366D6" text-anchor="middle">
+  <text x="30" y="15" font-family="Arial, sans-serif" font-size="10" fill="#0366D6" text-anchor="middle" dominant-baseline="middle">
     View
   </text>
 </svg>
