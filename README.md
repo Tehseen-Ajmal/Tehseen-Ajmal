@@ -26,16 +26,16 @@
 ---
 
 ## 💼 Projects
-- **Bank Management System (Java)** – Feature-rich system with GUI for users and a fast, powerful console-based admin panel <a href="https://github.com/tehseen-ajmal/Bank-and-wallet"><img src="view-btn.svg" width="60" alt="View" /></a>  
+- **Bank Management System (Java)** – Feature-rich system with GUI for users and a fast, powerful console-based admin panel  <a href="https://github.com/tehseen-ajmal/Bank-and-wallet"><img src="view-btn.svg" width="55" alt="View" /></a>  
 - **Grocery Store DB System** – Java GUI connected with MS SQL Server for inventory and sales
 - **Tic Tac Toe in Assembly** – Full-screen console UI using `goto`, colors, and position logic 
 - **CustomTkinter GUI Work** – Built beautiful UI apps like calculators and to-do lists in Python 
-- **Games in Java & Python** – A mix of GUI and console-based games showcasing logic, UI, and interactivity<a href="https://github.com/tehseen-ajmal/Tic-Tac-Toe"><img src="view-btn.svg" width="60" alt="View" /></a>  
-- **Encryptor/Decryptor** – Encrypting and decrypting text with multiple custom techniques <a href="https://github.com/tehseen-ajmal/Encryption_Python"><img src="view-btn.svg" width="60" alt="View" /></a>  
+- **Games in Java & Python** – A mix of GUI and console-based games showcasing logic, UI, and interactivity  <a href="https://github.com/tehseen-ajmal/Tic-Tac-Toe"><img src="view-btn.svg" width="55" alt="View" /></a>  
+- **Encryptor/Decryptor** – Encrypting and decrypting text with multiple custom techniques  <a href="https://github.com/tehseen-ajmal/Encryption_Python"><img src="view-btn.svg" width="55" alt="View" /></a>  
 - **Pygame Projects** – Several interactive games with sound, animation, and event handling 
 - **Facial Recognition Attendance System** – System with LMS report generation using Selenium 
 - **ML Projects** – House price prediction (California housing dataset) and multiple small ML projects in Python 
-- **Transliterator** – Urdu ↔ Roman-Urdu transliteration tool supporting bidirectional conversion <a href="https://github.com/tehseen-ajmal/Transliterater"><img src="view-btn.svg" width="60" alt="View" /></a>  
+- **Transliterator** – Urdu ↔ Roman-Urdu transliteration tool supporting bidirectional conversion  <a href="https://github.com/tehseen-ajmal/Transliterater"><img src="view-btn.svg" width="55" alt="View" /></a>  
 
 ---
 
